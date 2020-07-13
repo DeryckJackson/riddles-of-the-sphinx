@@ -10,13 +10,13 @@
 
 ## Specifications
 
-1. **Behavior:** Program
-    * **Input Example:**
-    * **Output Example:**
+1. **Behavior:** Program will ask a question and accept input from the user
+    * **Input Example:** 42
+    * **Output Example:** Correct
 
-2. **Behavior:** Program
-    * **Input Example:**
-    * **Output Example:**
+2. **Behavior:** Program will ask a random question from an array and accept an answer from the user
+    * **Input Example:** egg
+    * **Output Example:** Wrong
 
 
 ## Setup and Installation
